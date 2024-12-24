@@ -1,0 +1,16 @@
+{
+  "name": "@codehikeadventure/uuid_v4_generator",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A module to generate new random Version 4 UUID's",
+  "main": "generate_new_uuid",
+  "scripts": {
+  },
+  "keywords": [
+    "UUID",
+    "Version 4",
+    "RFC4122"
+  ],
+  "author": "Steve R Lewis",
+  "license": "MIT"
+}
