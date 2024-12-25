@@ -30,9 +30,9 @@ data
 .vscode
 *.code-workspace
 
-tsconfig.json
+.hintrc
+eslintrc.json
+eslintignore
 prettier.config.js
 prettierrc.json
-.hintrc
-eslintignore
-eslintrc.json
+tsconfig.json
