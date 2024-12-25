@@ -3,10 +3,11 @@
     "target": "ES2020", // Ensures compatibility with modern JavaScript
     "module": "ESNext", // Output ES modules
     "outDir": "dist",
-    "rootDir": "./",
+    "rootDir": "src",
     "strict": true,
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
   },
-  "include": ["./**/*"]
+  "include": ["src/**/*"]
 }

@@ -25,3 +25,14 @@ logs
 !.env.example
 
 data
+
+# vscode
+.vscode
+*.code-workspace
+
+tsconfig.json
+prettier.config.js
+prettierrc.json
+.hintrc
+eslintignore
+eslintrc.json
