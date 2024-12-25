@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "module",
   "description": "A module to generate new random Version 4 UUID's",
-  "main": "generate_new_uuid",
+  "main": "generate_uuid",
   "scripts": {},
   "keywords": [
     "UUID",
